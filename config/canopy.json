@@ -1,0 +1,19 @@
+{
+  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/a5f190cb-56fc-4f12-ad10-e5a0e6de329a?as=iiif&size=100",
+  "featured": [
+    "https://api.dc.library.northwestern.edu/api/v2/works/57baecb9-d3cb-46a4-988e-f3c8c4d6cb15?as=iiif",
+    "https://api.dc.library.northwestern.edu/api/v2/works/ebf7d601-1e72-4225-b856-08fb3208174c?as=iiif"
+  ],
+  "metadata": ["Date", "Materials"],
+  "label": { "none": ["Collection Title"] },
+  "summary": {
+    "none": ["An example of the steamships"]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "violet",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
