@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-iiif.github.io/canopy-iiif
+Host: https://nulib-ds.github.io/steamships-test
 
 # Sitemaps
-Sitemap: https://canopy-iiif.github.io/canopy-iiif/sitemap.xml
+Sitemap: https://nulib-ds.github.io/steamships-test/sitemap.xml
